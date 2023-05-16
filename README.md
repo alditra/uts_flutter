@@ -1,16 +1,7 @@
 # login_flutter_project
 
-A new Flutter project.
+Tampilan dari menu login menggunakan flutter.
 
-## Getting Started
+## Gambar
+<img width="960" alt="login" src="https://github.com/alditra/uts_flutter/assets/99027675/1df5595c-c8ed-441e-9002-a8f64c239b3d">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
